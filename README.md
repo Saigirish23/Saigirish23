@@ -75,13 +75,6 @@
 
 ---
 
-## 🛰️ ROS 2 Robot Visualization
-- Designed URDF-based robots for RViz visualization
-- Built joint state publishers and robot modeling pipelines
-- Simulated robot movement and visualization workflows
-
----
-
 ## 🎮 Fireboy & Watergirl Clone in C
 - Multithreaded terminal-based game in C
 - Implemented hazards, collectibles, level mechanics, and progress systems
@@ -112,6 +105,7 @@
 - ROS 2 middleware internals
 - Embedded robotics platforms
 - Systems programming and infrastructure
+- RL implementation on simuls like Isaac Sim
 
 ---
 
