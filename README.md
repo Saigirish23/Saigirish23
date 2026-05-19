@@ -97,7 +97,7 @@
 
 ---
 
-# 🌱 Currently Exploring
+# 🚀 Currently Exploring
 
 - Distributed robotic systems
 - Swarm intelligence
